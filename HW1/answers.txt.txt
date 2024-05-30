@@ -1,0 +1,20 @@
+a.
+Doing it by hand would've probably taken alot of time, (depending on how many 
+articles we have to check obviously). Since there weren't that many articles 
+we think it would've taken atleast an hour but not that much more time. With 
+that being said, our solution is very handy since it works with any amount
+of articles, and if the amount of articles was really big, it would've been 
+impossible ot do by hand.
+
+b.
+So one of the conclusions we drew from this excersice, is that bash scripts 
+are super useful! They could be used for web tracking like checking a price 
+of a stock regularly or checking for updates on websites or looking for or 
+counting alot of information very quickly. We were personally surprised with
+how easy it was once we got the hang for the syntax.
+
+c.
+If we would want to scan for result every hour, we could probably write a bash 
+script that just runs our script every hour and compares the current scan 
+to the previous one and skips the duplicate urls that we already been through 
+and only then starts the search for the keywords.
